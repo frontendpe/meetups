@@ -20,8 +20,8 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
 
 * [Meetup Septiembre 2016](https://www.eventbrite.com/e/frontendpe-meetup-septiembre-tickets-27797278408)
   * Renzo Castro: **Frontend Workflow 101**
-   * [Slides](https://renzocastro.github.io/talks/2016/front-end-workflow-101/) | [Twitter](https://twitter.com/otakurzo)
+    * [Slides](https://renzocastro.github.io/talks/2016/front-end-workflow-101/) | [Twitter](https://twitter.com/otakurzo)
   * Sergio Brito: **Conociendo Angular 2**
-   * [Slides](http://www.slideshare.net/yacaFx/conociendo-angular-2) | [Twitter](https://twitter.com/yacafx)
+    * [Slides](http://www.slideshare.net/yacaFx/conociendo-angular-2) | [Twitter](https://twitter.com/yacafx)
   * Luis Suarez: **Migración de Angular 1.5 a Angular 2**
-   * [Slides](https://docs.google.com/presentation/d/1_BrLAAwEoyjxA-_nW6FEErMgkvCSvb4hIAfcWGyQ65g/edit)
+    * [Slides](https://docs.google.com/presentation/d/1_BrLAAwEoyjxA-_nW6FEErMgkvCSvb4hIAfcWGyQ65g/edit)
