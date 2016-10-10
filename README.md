@@ -24,4 +24,4 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
   * Sergio Brito: **Conociendo Angular 2**
     * [Slides](http://www.slideshare.net/yacaFx/conociendo-angular-2) | [Twitter](https://twitter.com/yacafx)
   * Luis Suarez: **Migración de Angular 1.5 a Angular 2**
-    * [Slides](https://docs.google.com/presentation/d/1_BrLAAwEoyjxA-_nW6FEErMgkvCSvb4hIAfcWGyQ65g/edit)
+    * [Slides](https://docs.google.com/presentation/d/1_BrLAAwEoyjxA-_nW6FEErMgkvCSvb4hIAfcWGyQ65g/edit) | [Twitter](https://twitter.com/luchotess)
