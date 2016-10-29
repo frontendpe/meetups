@@ -28,7 +28,7 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
 
 * [Meetup Octubre 2016](https://www.eventbrite.com/e/frontendpe-meetup-octubre-tickets-28484190982)
   * Rodrigo Aguilar: **Progressive Web Apps**
-    * [Slides](https://www.dropbox.com/s/gr16u27gutmki67/Progressive%20Web%20Apps.pdf?dl=0)
+    * [Slides](https://www.dropbox.com/s/gr16u27gutmki67/Progressive%20Web%20Apps.pdf?dl=0) | [Twitter](https://twitter.com/rod_nato)
   * Sergio Castillo: **Pushing HTML5 beyond boundaries**
     * [Slides](http://www.slideshare.net/scyrizales/pushing-html5-beyond-boundaries) | [Twitter](https://twitter.com/scyrizales)
   * Roy Surjano: **Unbundle Front-End Applications for HTTP2**
