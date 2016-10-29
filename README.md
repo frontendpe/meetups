@@ -25,3 +25,11 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
     * [Slides](http://www.slideshare.net/yacaFx/conociendo-angular-2) | [Twitter](https://twitter.com/yacafx)
   * Luis Suarez: **Migración de Angular 1.5 a Angular 2**
     * [Slides](https://docs.google.com/presentation/d/1_BrLAAwEoyjxA-_nW6FEErMgkvCSvb4hIAfcWGyQ65g/edit) | [Twitter](https://twitter.com/luchotess)
+
+* [Meetup Octubre 2016](https://www.eventbrite.com/e/frontendpe-meetup-octubre-tickets-28484190982)
+  * Rodrigo Aguilar: **Progressive Web Apps**
+    * [Slides](https://docs.google.com/a/globant.com/presentation/d/1mG8H28nfyJLHSiBJ04IA9nq5DVjRogNaKx0eFiT5a_Y/edit)
+  * Sergio Castillo: **Pushing HTML5 beyond boundaries**
+    * [Slides](http://www.slideshare.net/scyrizales/pushing-html5-beyond-boundaries) | [Twitter](https://twitter.com/scyrizales)
+  * Roy Surjano: **Unbundle Front-End Applications for HTTP2**
+    * [Slides](http://slides.com/rsurjano/unbundle-frontend-applications-for-http2#/) | [Twitter](http://twitter.com/rsurjano)
