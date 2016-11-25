@@ -33,3 +33,11 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
     * [Slides](http://www.slideshare.net/scyrizales/pushing-html5-beyond-boundaries) | [Twitter](https://twitter.com/scyrizales)
   * Roy Surjano: **Unbundle Front-End Applications for HTTP2**
     * [Slides](http://slides.com/rsurjano/unbundle-frontend-applications-for-http2#/) | [Twitter](http://twitter.com/rsurjano)
+
+* [Meetup Noviembre 2016](https://www.eventbrite.com/e/frontendpe-meetup-noviembre-tickets-29416828526)
+  * Renato Centeno: **Vue.js 2 mi nuevo mejor amigo**
+    * Slides
+  * Joan Peramás: **Construyendo SPA con Vue 2**
+    * [Slides](https://drive.google.com/file/d/0Bx0yn-a3temAeUFJZW9GaERfLUk/view?usp=sharing)
+  * Paul Díaz: **How to structure your CSS**
+    * [Slides](https://github.com/paulrrdiaz/how-to-structure-your-css)
