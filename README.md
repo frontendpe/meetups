@@ -36,7 +36,7 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
 
 * [Meetup Noviembre 2016](https://www.eventbrite.com/e/frontendpe-meetup-noviembre-tickets-29416828526)
   * Renato Centeno: **Vue.js 2 mi nuevo mejor amigo**
-    * Slides
+    * [Slides](https://speakerdeck.com/elnato/vue-dot-js-2-mi-nuevo-mejor-amigo-frontend-dot-pe-3er-meetup) | [Twitter](https://twitter.com/hellorenato) | [GitHub](https://github.com/elnato)
   * Joan Peramás: **Construyendo SPA con Vue 2**
     * [Slides](https://drive.google.com/file/d/0Bx0yn-a3temAeUFJZW9GaERfLUk/view?usp=sharing)
   * Paul Díaz: **How to structure your CSS**
