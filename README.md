@@ -41,3 +41,10 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
     * [Slides](https://drive.google.com/file/d/0Bx0yn-a3temAeUFJZW9GaERfLUk/view?usp=sharing)
   * Paul Díaz: **How to structure your CSS**
     * [Slides](https://github.com/paulrrdiaz/how-to-structure-your-css)
+
+
+* [Meetup Abril 2017](https://www.eventbrite.com/e/frontendpe-meetup-abril-registration-33879929782)
+  * Isaac Mori: **Intro a React**
+    * [Slides](http://slides.com/isaacluismoriguerra/deck#/) | [Twitter](https://twitter.com/lueimg)
+  * John Machahuay: **Creando Apps con React Native**
+    * [Slides](http://slides.com/johnprog/react-native-webinar-18#/) | [Twitter](https://twitter.com/Johnp_js) | [GitHub](https://github.com/JohnProg)
