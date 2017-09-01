@@ -42,9 +42,14 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
   * Paul Díaz: **How to structure your CSS**
     * [Slides](https://github.com/paulrrdiaz/how-to-structure-your-css)
 
-
 * [Meetup Abril 2017](https://www.eventbrite.com/e/frontendpe-meetup-abril-registration-33879929782)
   * Isaac Mori: **Intro a React**
     * [Slides](http://slides.com/isaacluismoriguerra/deck#/) | [Twitter](https://twitter.com/lueimg)
   * John Machahuay: **Creando Apps con React Native**
     * [Slides](http://slides.com/johnprog/react-native-webinar-18#/) | [Twitter](https://twitter.com/Johnp_js) | [GitHub](https://github.com/JohnProg)
+
+* [Meetup Agosto 2017](https://www.eventbrite.com/e/frontendpe-meetup-agosto-tickets-37319888792)
+  * Fabiola Borquez: **Pequeñas decisiones del front con gran impacto en el usuario**
+    * [Slides](https://drive.google.com/file/d/0Bx0yn-a3temAVVZuSHpxSkJiUVE/view?usp=sharing) | [Twitter](https://twitter.com/fabi_borquez)
+  * Paco Reyes: **UX y metodologías ágiles**
+    * [Slides](https://drive.google.com/file/d/0Bx0yn-a3temAM2dWSndyZ0lvQVE/view?usp=sharing)
