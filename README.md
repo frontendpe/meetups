@@ -56,7 +56,7 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
 
 
 * [Meetup Setiembre 2017](https://www.eventbrite.com/e/frontendpe-meetup-setiembre-tickets-38158581344)
-  * Estefano Castañeda: **¿Qué es una interfaz? Mitos sobre UX Design**
+  * Estefano Castañeda: **¿Qué es una interfaz? Mitos sobre UX Design**
     * [Slides](https://drive.google.com/file/d/0B1GSvAe2ggaMUGpDMkZKVXNZTnc/view?usp=sharing)
   * Luis Suarez: **Cómo trabajar remoto en el 2017 y no morir de hambre a fin de mes**
     * [Slides](https://drive.google.com/file/d/0B1GSvAe2ggaMME1KNDdYU3RDRzg/view?usp=sharing)
