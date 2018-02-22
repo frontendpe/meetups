@@ -62,3 +62,9 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
     * [Slides](https://drive.google.com/file/d/0B1GSvAe2ggaMME1KNDdYU3RDRzg/view?usp=sharing)
   * Erik Porroa: **CSS Grids**
     * [Slides](https://drive.google.com/file/d/0B1GSvAe2ggaMdzRVZUxlRWVqUVk/view?usp=sharing)
+    
+* [Meetup Febrero 2018](https://www.eventbrite.com/e/frontendpe-meetup-febrero-tickets-42906438312)
+  * Juan José Vento: **Introducción a Mobx con React**
+    * [Slides](http://slides.com/jjvsevilla/introduccion-a-mobx-y-react/fullscreen#/)
+  * Manuel Tejeda: **E2E Testing con Puppeteer**
+    * [Slides](http://pendiente) | [GitHub](https://github.com/matedeilo/puppeteer-expo)
