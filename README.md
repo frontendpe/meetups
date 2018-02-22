@@ -67,4 +67,4 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
   * Juan José Vento: **Introducción a Mobx con React**
     * [Slides](http://slides.com/jjvsevilla/introduccion-a-mobx-y-react/fullscreen#/)
   * Manuel Tejeda: **E2E Testing con Puppeteer**
-    * [Slides](http://pendiente) | [GitHub](https://github.com/matedeilo/puppeteer-expo)
+    * [Slides](https://docs.google.com/presentation/d/1jyXBsP_gUbn-EyQaMCEocFkVPuDy6XZvDun1127u9vQ) | [GitHub](https://github.com/matedeilo/puppeteer-expo)
