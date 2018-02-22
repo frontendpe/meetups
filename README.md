@@ -65,6 +65,6 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
     
 * [Meetup Febrero 2018](https://www.eventbrite.com/e/frontendpe-meetup-febrero-tickets-42906438312)
   * Juan José Vento: **Introducción a Mobx con React**
-    * [Slides](http://slides.com/jjvsevilla/introduccion-a-mobx-y-react/fullscreen#/)
+    * [Slides](http://slides.com/jjvsevilla/introduccion-a-mobx-y-react/fullscreen#/) | [Twitter](https://twitter.com/jjvsevilla)
   * Manuel Tejeda: **E2E Testing con Puppeteer**
-    * [Slides](https://docs.google.com/presentation/d/1jyXBsP_gUbn-EyQaMCEocFkVPuDy6XZvDun1127u9vQ) | [GitHub](https://github.com/matedeilo/puppeteer-expo)
+    * [Slides](https://docs.google.com/presentation/d/1jyXBsP_gUbn-EyQaMCEocFkVPuDy6XZvDun1127u9vQ) | [GitHub](https://github.com/matedeilo/puppeteer-expo) | [Twitter](https://twitter.com/matedeilo)
