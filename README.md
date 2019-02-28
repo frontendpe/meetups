@@ -22,7 +22,7 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
   * Juan José Vento: **React Hooks: Un punto de vista Angular**
     * [Slides](https://docs.google.com/presentation/d/1Mym04S08sR-5xfE3lB2POKTHdP8836VtlCVO-mTq68g) | [Github](https://github.com/jjvsevilla/react-hooks) | [Twitter](https://twitter.com/jjvsevilla)
   * Luis Suarez: **Introducción a Frameworks CSS**
-    * Slides | [GitHub](https://github.com/luchotess) | [Twitter](https://twitter.com/luchotess)
+    * [Slides](https://1drv.ms/p/s!Ak0qMyB98U_dc7AXiQjSs9cQVQ0) | [GitHub](https://github.com/luchotess) | [Twitter](https://twitter.com/luchotess)
   * Heissen Lopez: **Sitios web "que vuelan" usando Gatsby**
     * [Slides](https://docs.google.com/presentation/d/1X7JFMOgfkaK2IZwHV0lvQv0Bm_oRbo2FszHfmdIRokg) | [GitHub](https://github.com/heilop) | [Twitter](https://twitter.com/heilop)
 
