@@ -18,7 +18,15 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
 
 ## Meetups realizados
 
-* Meetup Febrero 2019
+* [Meetup Marzo 2019](https://www.meetup.com/es-ES/Frontend-Peru/events/259960339)
+  * Erik Porroa: **Web Components con otros JS frameworks**
+    * [Slides](#) | [Github](https://github.com/eporroa) | [Twitter](https://twitter.com/eporroa)
+  * Jean Paul Diaz: **PWA + Workbox**
+    * [Slides](#) | [GitHub](https://github.com/jeanpaul1304) | [Twitter](https://twitter.com/jeanpaul1304)
+  * Luis Suarez: **Wanacode: Fullstack Developer en el 2019, qué y cómo aprender.**
+    * [Slides](#) | [GitHub](https://github.com/luchotess) | [Twitter](https://twitter.com/luchotess)
+
+* [Meetup Febrero 2019](https://www.meetup.com/es-ES/Frontend-Peru/events/258831594)
   * Juan José Vento: **React Hooks: Un punto de vista Angular**
     * [Slides](https://docs.google.com/presentation/d/1Mym04S08sR-5xfE3lB2POKTHdP8836VtlCVO-mTq68g) | [Github](https://github.com/jjvsevilla/react-hooks) | [Twitter](https://twitter.com/jjvsevilla)
   * Luis Suarez: **Introducción a Frameworks CSS**
