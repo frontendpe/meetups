@@ -18,11 +18,19 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
 
 ## Meetups realizados
 
+* [Meetup Junio 2019](https://www.meetup.com/es-ES/Frontend-Peru/events/261938656/)
+  * Luis Suarez: **La verdad detrás de Git**
+    * [Slides](#) | [GitHub](https://github.com/luchotess) | [Twitter](https://twitter.com/luchotess)
+  * Pepe Miyashiro: **Workflows con Git**
+    * [Slides](https://github.com/pepemiyashiro/gitflow/blob/develop/Workflow-Git.tar.gz) | [Github](https://github.com/pepemiyashiro) | [Twitter](https://twitter.com/pepemiyashiro)
+  * Hansy Schmitt: **Git Internals**
+    * [Slides](https://docs.google.com/presentation/d/1tTFIZdcrRI0OwKHtrlJ0Fsidhj4uRmoY6nxAadDYhkk/edit?usp=sharing) | [GitHub](https://github.com/hacksy) | [Twitter](https://twitter.com/hacksy)
+
 * [Meetup Marzo 2019](https://www.meetup.com/es-ES/Frontend-Peru/events/259960339)
   * Erik Porroa: **Web Components con otros JS frameworks**
     * [Slides](#) | [Github](https://github.com/eporroa) | [Twitter](https://twitter.com/eporroa)
   * Jean Paul Diaz: **PWA + Workbox**
-    * [Slides](#) | [GitHub](https://github.com/jeanpaul1304) | [Twitter](https://twitter.com/jeanpaul1304)
+    * [Slides](https://jeanpaul1304.github.io/pwa-expo/) | [GitHub](https://github.com/jeanpaul1304) | [Twitter](https://twitter.com/jeanpaul1304)
   * Luis Suarez: **Wanacode: Fullstack Developer en el 2019, qué y cómo aprender.**
     * [Slides](#) | [GitHub](https://github.com/luchotess) | [Twitter](https://twitter.com/luchotess)
 
