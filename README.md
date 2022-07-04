@@ -19,9 +19,12 @@ Luego de proponer un tema, lo conversaremos en el issue y coordinaremos en qué 
 ## Meetups realizados
 
 * [Meetup Junio 2022](https://www.meetup.com/frontend-pe/events/286793562/)
- * Darío Macchi **Calidad en contextos ágiles** (Slides) | (Twitter)
- * Luis Mori Guerra **Custom Web Components** (Slides) | [Twitter](https://twitter.com/lueimg)
- * Juan José Vento **Design Patterns** [Slides](https://docs.google.com/presentation/d/1dX4k-o8NkjkvUM2WzqUE7Yco58WBY-Kg6e5JtHTWa8shttps://docs.google.com/presentation/d/1dX4k-o8NkjkvUM2WzqUE7Yco58WBY-Kg6e5JtHTWa8s) | [Twitter](https://twitter.com/jjvsevilla)
+  * Darío Macchi **Calidad en contextos ágiles**
+    * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTiqvhcHHH5DMcvOzlwVXQfp0XLLCycgURv04W4YvGsU7u3DKFdv7MqxY-r5keySjUa4v0uChVnCDZ7/pub?start=false&loop=false&slide=id.g13aa46dea26_0_798) | [Twitter](https://twitter.com/_dariomac)
+  * Luis Mori Guerra **Custom Web Components**
+    * [Slides](https://docs.google.com/presentation/d/1dX4k-o8NkjkvUM2WzqUE7Yco58WBY-Kg6e5JtHTWa8s) | [Twitter](https://twitter.com/lueimg)
+  * Juan José Vento **Design Patterns**
+    * [Slides](https://docs.google.com/presentation/d/13LbGsi8mkpEmwqUi8reBBm5IZW4N1Hd9F_pkk2ncR3E/edit?usp=sharing) | [Twitter](https://twitter.com/jjvsevilla)
 
 * [Meetup Junio 2019](https://www.meetup.com/es-ES/Frontend-Peru/events/261938656/)
   * Luis Suarez: **La verdad detrás de Git**
